@@ -177,12 +177,12 @@ button{
 }
 @media only screen and (max-width:767px){
   .fan-div{
-    background-position-x:24% ;
+    background-position-x:22% ;
   }
   .fan-div .ceiling-container{
     width: 260px;
     height: 260px;
-    top: 9%;
+    top: 7%;
   }
   button{
     top: 80%;
